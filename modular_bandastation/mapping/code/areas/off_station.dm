@@ -150,3 +150,18 @@
 
 /area/centcom/central_command_areas/srt/brief_srt
 	name = "ЦК - Брифинг ГСН"
+
+/area/centcom/ctf/central
+    name = "Синие - Арена"
+
+/area/awaymission/centcom_away/cafe
+    name = "Красные - Арена"
+
+/area/centcom/mafia
+    name = "Серые - Арена"
+
+/area/centcom/tdome
+    name = "Зелёные - Арена"
+
+/area/centcom/basketball
+    name = "Зона боя - Арена"
